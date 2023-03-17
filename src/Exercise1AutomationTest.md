@@ -9,5 +9,5 @@
 ## Task 5: 
 *  Find the "Password" input field refer to Task 2 for completing this task on https://the-internet.herokuapp.com/login.
 ## Task 6: 
-* Find the "Login" button on https://the-internet.herokuapp.com/login.
+* Find the "Login" button and class attribute is uses on https://the-internet.herokuapp.com/login.
 
